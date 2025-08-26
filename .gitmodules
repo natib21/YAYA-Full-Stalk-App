@@ -1,0 +1,6 @@
+[submodule "yaya-nest-backend"]
+	path = yaya-nest-backend
+	url = https://github.com/natib21/YAYA-Back-end.git
+[submodule "yaya-react-frontend"]
+	path = yaya-react-frontend
+	url = https://github.com/natib21/YAYA-Front-end.git
